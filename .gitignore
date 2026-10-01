@@ -1,0 +1,32 @@
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+circular_buffer
+
+# Build directories
+build/
+cmake-build-*/
+.cache/
+compile_commands.json
+
+# Test & coverage
+*.gcda
+*.gcno
+coverage.html
+coverage.css
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
